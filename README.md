@@ -6,3 +6,4 @@ Olá ! Bem vindo ao livro de receitas :wave: , as receitas encontradas nesse arq
 - Pavê de goiaba
 - Sorvete cremoso de goiaba
 - Bananada gratinada com doce
+- Pizza Romeu e Julieta
