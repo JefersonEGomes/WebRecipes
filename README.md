@@ -6,6 +6,8 @@ Olá ! Bem vindo ao livro de receitas :wave: , as receitas encontradas nesse arq
 
 - Bolo de rolo
 
+- Milk Shake de goiaba
+
 - Pavê de goiaba
 
 - Pizza Romeu e Julieta
