@@ -4,7 +4,7 @@ Olá ! Bem vindo ao livro de receitas :wave: , as receitas encontradas nesse arq
 
 Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro vale ressaltar que a migração dos arquivos que estão em Markdown para HTML está em andamento.
 
-- Bananada gratinada com doce (HTML - 80% CSS - 0%)
+- Bananada gratinada com doce (HTML - 85% CSS - 10%)
 
 - Bolo de rolo
 
