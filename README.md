@@ -6,6 +6,8 @@ Olá ! Bem vindo ao livro de receitas :wave: , as receitas encontradas nesse arq
 
 - Bolo de rolo
 
+- Casadinhos
+
 - Milk Shake de goiaba
 
 - Neve de goiaba (extra : calda de goiaba)
