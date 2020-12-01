@@ -2,7 +2,9 @@
 
 Olá ! Bem vindo ao livro de receitas :wave: , as receitas encontradas nesse arquivo podem ser lidas e editadas utilizando um editor de texto Markdown como o Typora
 
-- Bananada gratinada com doce
+Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro vale ressaltar que a migração dos arquivos que estão em Markdown para HTML está em andamento.
+
+- Bananada gratinada com doce (HTML - 0%)
 
 - Bolo de rolo
 
