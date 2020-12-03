@@ -1,4 +1,14 @@
 body{ 
     background-image: url("C:/workspace//livro-receitas/receitas/Assets/Backgrounds/BananadaGratinadaBack.jpg");
-   background-size: 100%;
+    background-size: 100%;
+    font-family: 'Concert One', cursive;
 }
+
+div{
+    text-align: center;   
+}
+/* centralizar os pontos*/
+ul{}
+
+/*centralizar os numero*/
+ol{}
