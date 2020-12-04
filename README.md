@@ -16,6 +16,8 @@ Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro
 
 - Neve de goiaba (extra : calda de goiaba)
 
+- Pavê com bombons
+
 - Pavê de goiaba
 
 - Pizza Romeu e Julieta
