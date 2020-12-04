@@ -20,6 +20,8 @@ Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro
 
 - Pizza Romeu e Julieta
 
+- Sorvete Americano
+
 - Sorvete cremoso de goiaba
 
 - Strogonoff de frango
