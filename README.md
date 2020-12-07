@@ -12,6 +12,8 @@ Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro
 
 - Casadinhos
 
+- Frango à espanhola
+
 - Milk Shake de goiaba
 
 - Neve de goiaba (extra : calda de goiaba)
