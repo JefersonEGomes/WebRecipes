@@ -1,14 +1,28 @@
 body{ 
     background-image: url("C:/workspace//livro-receitas/receitas/Assets/Backgrounds/BananadaGratinadaBack.jpg");
-    background-size: 100%;
+    background-size: 80%;
     font-family: 'Concert One', cursive;
 }
 
-div{
-    text-align: center;   
+a{
+    text-decoration: none;
+    color:whitesmoke;
+    font-family: 'Concert One', cursive;  
 }
-/* centralizar os pontos*/
-ul{}
+button{
+    border: none;
+    border-radius: 3px;
+    background-color: #be5b59;
+}
 
-/*centralizar os numero*/
-ol{}
+#titulo{
+    margin-left: 15%;
+}
+.lista{
+    margin-left: 15%;
+    padding-left: 50px ;
+    padding-right: 80px ;
+}
+p{
+    margin-left: 15%;
+}
