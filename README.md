@@ -1,12 +1,14 @@
 # Livro de receitas :man_cook:
 
-Olá ! Bem vindo ao livro de receitas :wave: , as receitas encontradas nesse arquivo podem ser lidas e editadas utilizando um editor de texto Markdown como o Typora
+Olá ! Bem vindo ao livro de receitas + Glossário Gastronômico :wave: , as receitas e o glossário encontrados nesse arquivo podem ser lidos e editados utilizando um editor de texto Markdown como o Typora
 
 Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro vale ressaltar que a migração dos arquivos que estão em Markdown para HTML está em andamento.
 
-- Bananada gratinada com doce (HTML - 87% CSS - 20%)
+- Glossário Gastronômico (Status : 35%)
 
-- Bolo com banana
+- Bananada gratinada com doce (HTML - 100% CSS - 100% / Sujeito a modificações)
+
+- Bolo com banana (HTML - 0% CSS - 0%)
 
 - Bolo de banana
 
