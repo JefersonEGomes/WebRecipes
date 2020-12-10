@@ -6,6 +6,8 @@ Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro
 
 - Bananada gratinada com doce (HTML - 87% CSS - 20%)
 
+- Bolo com banana
+
 - Bolo de banana
 
 - Bolo de rolo
