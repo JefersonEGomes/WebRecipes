@@ -1,18 +1,18 @@
 body{ 
-    background-image: url("C:/workspace//livro-receitas/receitas/Assets/Backgrounds/BananadaGratinadaBack.jpg");
-    background-size: 80%;
+    background-image: url("C:/workspace//livro-receitas/receitas/Assets/Backgrounds/AmareloSuave.jpg");
+    background-size: 100%;
     font-family: 'Concert One', cursive;
 }
 
 a{
+    color: black;
     text-decoration: none;
-    color:whitesmoke;
     font-family: 'Concert One', cursive;  
 }
 button{
     border: none;
     border-radius: 3px;
-    background-color: #be5b59;
+    background-color: #d6bb22;
 }
 
 #titulo{
