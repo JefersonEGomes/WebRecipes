@@ -1,6 +1,6 @@
 # Bolo de banana :banana::cake:
 
-### Ingridientes
+### Ingredientes
 
 - 4 ovos
 - 2 xícaras de açúcar
