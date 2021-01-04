@@ -1,0 +1,85 @@
+*{    
+    font-family: 'Concert One', cursive;
+    font-size: 18pt;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("../Assets/Backgrounds/AmareloSuaveComMelancia.jpg");
+    background-size: 100%;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    display: flex;
+    align-items: center;   
+    justify-content: center;
+    background-color: #D4AC0D;
+    padding: 5px 5px;
+    list-style:none;
+    
+
+}
+
+.menu li{
+    position:relative;
+    border:10px solid #D4AC0D;
+}
+
+.menu li ul{
+    position:absolute;
+    top:25px;
+    left:0;
+    display:none;
+}
+
+.menu ul li{
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    background-color: #D4AC0D;
+    text-decoration: none;
+    list-style-type: none;
+    transition: 350ms;
+    cursor: pointer;
+
+}
+
+
+
+.menu li:hover ul, .menu li.over ul{
+    display: block;
+}
+
+.menu ul li{
+    border:1px solid #D4AC0D;
+    display:block;
+}
+
+.menu li:hover, a:hover{
+    color:whitesmoke;
+    background-color: #E67E22;
+    border-color: #E67E22;
+    transition: 350ms;
+}
+
+main{
+    width: 70%;
+    background-color:#f39d1241 ;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 90vh;
+    margin-bottom: 2%;
+}
+
+footer{
+    text-align: center;
+    background-color: #f39d1241;   
+}

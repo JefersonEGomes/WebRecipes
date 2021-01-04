@@ -16,14 +16,11 @@ button{
     background-color: #d6bb22;
 }
 
-#titulo{
-    margin-left: 15%;
+#title{
+    margin-left: 30%;
 }
+
 .lista{
-    margin-left: 15%;
-    padding-left: 50px ;
-    padding-right: 80px ;
-}
-p{
-    margin-left: 15%;
+    margin-left: 30%;
+    padding-left: 15px;
 }
