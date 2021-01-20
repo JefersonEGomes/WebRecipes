@@ -78,16 +78,18 @@ main{
 }
 
 .textImg1{
-    display: flex;
     width: 90vw;
-    margin-top: 40px;
-    margin-left: 25px;
+    margin-top:10%;
+    margin-left:5%;
 }
 
 .textImg1 button{
-background: none;
-border-style: none;
-}
+    float: left;
+    background: none;
+    border-style: none;
+    border-radius: 5%;
+    margin-right: 4%;
+    }
 
 .textImg1 button h4{
     font-size: 24pt;
@@ -100,11 +102,14 @@ border-style: none;
 }
 
 .textImg1 h1{
-    display:block;
-    text-align: center;
-    font-size: 28pt;
+    font-size: 65pt;
+    margin-bottom: -17px;
 }
 
+.textImg1 p{
+    font-size: 28pt;
+    margin-top: 15px;
+}
 
 footer{
     text-align: center;
