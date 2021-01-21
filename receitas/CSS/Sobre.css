@@ -1,0 +1,126 @@
+*{    
+
+    font-family: 'Concert One', cursive;
+    font-size: 18pt;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("../Assets/Backgrounds/aboutBackground.jpg");
+    background-size: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color: #D4AC0D;
+}
+
+.menu ul{
+    list-style: none;
+    margin-left: 600px;
+    position: relative;
+}
+
+.menu ul li{
+    width:150px;
+    float: left;
+}
+
+.menu a{
+    padding: 15px;
+    display: block;
+    align-items: center;
+    background-color:#D4AC0D;
+}
+
+.menu ul ul{
+    position: absolute;
+    visibility: hidden;
+    margin-left: 0;
+}
+
+.menu ul li:hover ul{
+    visibility: visible;
+}
+
+.menu a:hover{
+    background-color: #E67E22;
+    color:whitesmoke;
+}
+
+.menu ul ul li{
+    float:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .menu li{
+
+    position: relative;
+    border:10px solid #D4AC0D;
+}
+
+.menu li a{
+    margin-left:8px;
+}
+
+.menu li ul{
+
+    position: absolute;
+    top: 25px;
+    /* left: 0; 
+    display: none;
+}
+
+.menu ul li{
+    
+    display: block;
+    color: black;
+    background-color: #D4AC0D;
+    text-decoration: none;
+    list-style-type: none;
+    transition: 350ms;
+    cursor: pointer;
+    border: 5px solid #D4AC0D;
+    border-width: 10px;
+    width: 90px;
+}
+
+.menu li:hover ul, .menu li.over ul{
+    display: block;
+}
+
+.menu li:hover, a:hover{
+
+    color:whitesmoke;
+    background-color: #E67E22;
+    border-color: #E67E22;
+    transition: 350ms;
+} */
