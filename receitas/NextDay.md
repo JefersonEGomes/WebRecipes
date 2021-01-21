@@ -1,3 +1,5 @@
 ## Metas do Próximo dia :notebook:
 
-- Criar uma próxima tela
+- Ajustar imagens
+- Ajustar texto
+- Estilizar a página
