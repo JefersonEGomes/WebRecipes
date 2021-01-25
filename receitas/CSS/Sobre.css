@@ -64,7 +64,7 @@ main{
 }
 main img{
     margin-left: 10px;
-    margin-top: 100px;
+    margin-top: 85px;
     width: 350px;
     border-radius: 50%;   
 }
@@ -91,13 +91,13 @@ main p{
     background-size: 25%;
     background: none;
     border-radius: 10px;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 22px;
+    margin-bottom: 12px;
     
 }
 
 .about img{
-    /* width: 190px; */
+    width: 190px;
     border-radius: 50%;
 }
 
