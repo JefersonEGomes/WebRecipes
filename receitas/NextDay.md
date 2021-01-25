@@ -1,4 +1,6 @@
 ## Metas do Próximo dia :notebook:
 
-- Finalizar página Sobre
-- Iniciar planejamento de próxima página
+- Terminar HTML do glossário
+- Revisar CSS do glossário
+- Tentar finalizar CSS do glossário
+
