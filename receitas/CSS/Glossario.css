@@ -1,0 +1,108 @@
+*{
+    font-family: 'Concert One', cursive;
+    font-size: 18pt;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("../Assets/Backgrounds/emBreve.jpg");
+    background-size: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu{
+    width: 100%;
+    height: 60px;
+    background-color: #DBB20C;
+}
+
+.menu ul{
+    list-style: none;
+    margin-left: 580px;
+    position: relative;
+}
+
+.menu ul li{
+    width:150px;
+    float: left;
+}
+
+.menu a{
+    padding: 15px;
+    display: block;
+    align-items: center;
+    background-color:#DBB20C;
+}
+
+.menu ul ul{
+    position: absolute;
+    visibility: hidden;
+    margin-left: 0;
+}
+
+.menu ul li:hover ul{
+    visibility: visible;
+}
+
+.menu a:hover{
+    background-color: #E67E22;
+    color:whitesmoke;
+}
+
+.menu ul ul li{
+    float:none;
+}
+
+#busca{
+    background-color: #DBB20C;
+    border: solid 2px #000000;
+    border-radius: 10px;
+    float: right;
+    height: 50px;
+    margin-right: 60px;
+    width: 286px;
+}
+
+#txtBusca{
+    border: none;
+    border-radius:10px;
+    float: left;
+    font-size: 18pt;
+    height: 50px;
+    /* padding-left: 5px; */
+    outline:none;
+    width: 215px;
+}
+
+#btnBusca{
+    background: #DBB20C;
+    border: none;
+    border-radius: 0 7px 7px 0;
+    float: left;
+    font-weight: bold;
+    height: 50px;
+    /* margin-left: 5px; */
+    outline: none;
+    position: relative;
+    width: 70px;
+}
+
+#btnBusca img{
+    width: 50px;
+}
+#btnBusca:hover{
+    cursor: pointer;
+    background-color: #E67E22
+}
+/* #busca:hover{ 
+    background-color: #E67E22;
+}*/
+
+#btnBusca img:hover{
+    filter: invert(100%) sepia(3%) saturate(677%) hue-rotate(228deg) brightness(115%) contrast(92%);
+}
