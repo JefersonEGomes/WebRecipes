@@ -70,12 +70,11 @@ a{
 
 #txtBusca{
     border: none;
-    border-radius:10px;
+    border-radius: 10px 0 0 10px;
     float: left;
     font-size: 18pt;
     height: 50px;
-    /* padding-left: 5px; */
-    outline:none;
+    outline: none;
     width: 215px;
 }
 
@@ -86,7 +85,6 @@ a{
     float: left;
     font-weight: bold;
     height: 50px;
-    /* margin-left: 5px; */
     outline: none;
     position: relative;
     width: 70px;
@@ -99,10 +97,37 @@ a{
     cursor: pointer;
     background-color: #E67E22
 }
-/* #busca:hover{ 
+#busca:hover{ 
     background-color: #E67E22;
-}*/
+}
 
 #btnBusca img:hover{
     filter: invert(100%) sepia(3%) saturate(677%) hue-rotate(228deg) brightness(115%) contrast(92%);
+}
+
+h1{
+    font-size: 24pt;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    margin-top: 50px;
+    flex-flow: row wrap;
+    text-align: center;
+    justify-content: center;
+}
+.titulo{
+    position: relative;
+    left: 300px;
+}
+
+.fontTitulo{
+    font-size: 30pt;
+}
+.conteudo1 , .conteudo2{
+    position: relative;
+    margin-right: 60px;
+    top: 70px;
+    right: 50px;
 }
