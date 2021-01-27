@@ -4,10 +4,13 @@
     margin: 0;
     padding: 0;
 }
-
+/* 
 body{
     background-image: url("../Assets/Backgrounds/emBreve.jpg");
     background-size: 100%;
+} */
+body{
+    background-color: #DBB20C;
 }
 
 a{
@@ -62,7 +65,6 @@ a{
     background-color: #DBB20C;
     border: solid 2px #000000;
     border-radius: 10px;
-    float: right;
     height: 50px;
     margin-right: 60px;
     width: 286px;
@@ -107,27 +109,29 @@ a{
 
 h1{
     font-size: 24pt;
-    text-align: center;
 }
 
-main{
-    display: flex;
+#main{
+    display: grid;
     margin-top: 50px;
-    flex-flow: row wrap;
-    text-align: center;
-    justify-content: center;
 }
 .titulo{
     position: relative;
-    left: 300px;
 }
 
 .fontTitulo{
+    text-align: center;
     font-size: 30pt;
 }
-.conteudo1 , .conteudo2{
+
+#conteudo{
+    display: flex;
+}
+.conteudo1, .conteudo2{
     position: relative;
+    /* display: ; */
+    float: right;
     margin-right: 60px;
+    margin-left: 60px;
     top: 70px;
-    right: 50px;
 }
