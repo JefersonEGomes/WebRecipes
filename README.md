@@ -1,6 +1,6 @@
-# Livro de receitas :man_cook:
+# Web Recipes :man_cook:
 
-Olá ! Bem vindo ao livro de receitas + Glossário Gastronômico :wave: , as receitas e o glossário encontrados nesse arquivo podem ser lidos e editados utilizando um editor de texto Markdown como o Typora
+Olá ! Bem vindo ao Web Recipes + Glossário Gastronômico :wave: , as receitas e o glossário encontrados nesse arquivo podem ser lidos e editados utilizando um editor de texto Markdown como o Typora
 
 Ps.: Estou disponibilizando também as receitas em formato de HTML (+css), claro vale ressaltar que a migração dos arquivos que estão em Markdown para HTML está em andamento.
 
