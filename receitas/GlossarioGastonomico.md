@@ -70,3 +70,27 @@
 
 - Tornar um líquido mais limpo. Para 1 litro de caldo junte uma clara de ovo. Deixe levantar fervura e coe num guardanapo molhado em água gelada e torcido
 
+### Confeitar
+
+- Decorar com açúcar (glace)
+
+### Corar
+
+- Submeter á ação forte do calor, para adquirir cor dourada
+
+### Debulhar
+
+- Separar os grãos de milho da espiga, ou de ervilhas da vagem
+
+### Descongelar 
+
+- Deixar o alimento congelado á temperatura ambiente. Evite pôr de molho em água fria, para não prejudicar a textura e o valor nutritivo do alimento
+
+### Desenformar 
+
+- Retirar bolo, pudim,  torta, da forma. No caso de bolos, espere esfriar durante 10 a 15 minutos e solte as bordas passando uma faca ou espátula. Também os pudins devem ser desenformados depois de frios; passe um pano molado em água quente em volta e pelo fundo da forma. Biscoitos e pães devem ser retirados ainda mornos da assadeira. Para tortas leves, faça igual aos bolos: se for dura, forre o fundo da forma com papel celofane e unte-o com manteiga; para desenformar, abra o anel da forma e puxe o papel. Para tirar mousses e gelatinas, solte as beiradas e mergulhe rapidamente a forma em água quente. Fica mais fácil se a forma for antes umedecida com água fria.
+
+### Descansar 
+
+- Deixar a massa repousar (no minimo 20 minutos) antes de usá-la. Na geladeira, deve ficar pelo menos 30 minutos
+
