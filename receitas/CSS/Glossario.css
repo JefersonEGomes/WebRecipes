@@ -15,6 +15,7 @@ body{
     background-color: var(--color-main);
     background-image: url("../Assets/Backgrounds/AmareloSuave.jpg");
     background-size: 100%;
+    background-attachment: fixed;
 }
 
 a{
@@ -37,8 +38,9 @@ h1{
 
 .menu ul{
     list-style: none;
-    margin-left: 30%;
+    margin-left: 50%;
     position: relative;
+    transform: translateX(-45%);
 }
 
 .menu ul li{
@@ -49,7 +51,7 @@ h1{
 .menu a{
     padding: 15px;
     display: block;
-    align-items: center;
+    text-align: center;
     background-color:var(--color-main);
 }
 
@@ -70,13 +72,13 @@ h1{
 
 .menu ul ul li{
     float:none;
+    transform: translateX(45%);
 }
 /* Search Button ==========================*/
 #busca{
     position:absolute;
     right:0;
     top: 35%;
-    
     border: solid 2px #000000;
     border-radius: 10px;
     height: 60px;

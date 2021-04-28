@@ -35,7 +35,7 @@ a{
     list-style: none;
     margin-left: 50%;
     position: relative;
-    transform: translateX(-30%);
+    transform: translateX(-45%);
 }
 
 .menu ul li{
@@ -46,7 +46,7 @@ a{
 .menu a{
     padding: 15px;
     display: block;
-    align-items: center;
+    text-align: center;
     background-color:var(--color-main);
 }
 
@@ -69,7 +69,7 @@ a{
 
 .menu ul ul li{
     float:none;
-    transform: translateX(30%);
+    transform: translateX(45%);
 }
 
 /*Content ===============================*/
