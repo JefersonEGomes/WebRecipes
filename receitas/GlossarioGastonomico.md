@@ -60,7 +60,7 @@
 
 ### Cheiro-Verde
 
-- Combinação de salsa (de 10 a 15 galhos) e cebolinha (4 a 6 talos). Em certos casos, inclui louro, hortlã, segurelha e alecrim: é o "bouquet garni"
+- Combinação de salsa (de 10 a 15 galhos) e cebolinha (4 a 6 talos). Em certos casos, inclui louro, hortelã, segurelha e alecrim: é o "bouquet garni"
 
 ### Clara em neve
 
@@ -93,4 +93,96 @@
 ### Descansar 
 
 - Deixar a massa repousar (no minimo 20 minutos) antes de usá-la. Na geladeira, deve ficar pelo menos 30 minutos
+
+### Desengordurar 
+
+- Retirar a gordura com colher ou coar caldos e molhos passando por panos molhados em água gelada e torcidos.
+
+### Diluir
+
+- Misuturar uma substância líquida ou pastosa a outra para diminuir a intensidade de sua cor e sabor
+
+### Empanar
+
+- Passar o alimento que será frito por ovos batidos e farinha de trigo ( ou maisena, fubá, flocos de milho, etc.)
+
+### Engrossar
+
+- Juntar maisena, farinha de trigo, mandioca, arararuta, gemas ou creme de leite ao líquido e submetê-lo ao calor, para torná-lo mais denso
+
+### Ensopar
+
+- Fritar temperos, juntar o ingrediente principal e líquido e cozinhar
+
+### Escaldar
+
+- Mergulhar um alimento por pouco tempo em água ferventil
+
+### Escamar
+
+- Remover as escamas de peixes
+
+### Escumar 
+
+- Retirar impurezas de caldos e caldas com a escumadeira
+
+### Esfarinhar 
+
+- Cobrir um alimento ou superfície com farinha de trigo
+
+### Flambar 
+
+- Pôr em combustão álcool ou bebidas de alto teor alcoólico. Aqueça a bedida numa concha, sobre a chama do fogão e depois incline-a, para queimar a bebida
+
+### Lardear 
+
+- Entremear um pedaço de carne com toicinho, presunto e/ou cenoura, fazendo um furo onde devem penetrar
+
+### Ligar
+
+- Adicionar farinha de trigo, ovos, gema, manteiga, creme de leite, farinha de rosca, biscoito salgado triturado, batata cozida esmagada, miolo de pão embebido em leite, etc., às massas, para que não se desfaçam ou deformem quando forem fritadas ou cozidas em líquido abudante
+
+### Macerar 
+
+- Amolecer deixando o alimento sólido de molho com um líquido
+
+### Manter aquecido
+
+- Aqueça o forno em temperatura alta por 10 minutos. Apague e coloque o prato, que se manterá quente por meia hora pelo menos. Para frituras, coloque o alimento, á medida que for fritando, numa travessa sobre uma panela com água fervente. Não cubra o alimento para não abafá-lo
+
+### Pisar ou socar
+
+- Esmagar no pilão
+
+### Pincelar 
+
+- Untar com óelo, manteiga ou leite a superfície de um alimento
+
+### Reduzir
+
+- deixar que um líquido se evapore por meio de fervura contínua
+
+### Refogar
+
+- "Passar" o alimento em gordura quente, fazendo-o cozinhar em seus próprios sucos ou adicionando líquidos aos poucos
+
+### Salpicar
+
+- Espalhar em chuva ou polvilhar um condimento sobre os alimentos
+
+### "Sauté"
+
+- Fritar rapidamente um alimento pré-cozido em gordura quente, em emnor quantidade do que a usada para frituras
+
+### Sovar
+
+- Bater massa de pão ou massas feitas com fermento em tabletes sobre tábua ou mesa, por 7 ou 8 minutos, ininterruptamente, (amassando, abrindo, sovando), a fim de fazer a massa ficar elástica
+
+### Trinchar 
+
+- Cortar aves, peixes e carnes em pedaços pelas juntas, sem partir os ossos
+
+### Untar
+
+- Passar manteiga, óleo ou gordura numa forma
 
